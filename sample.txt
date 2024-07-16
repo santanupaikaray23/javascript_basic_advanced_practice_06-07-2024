@@ -1,4 +1,4 @@
-Completed Videos : 8
+Completed Videos : 10
 Node.js is an environment to run the javascript in the backend
 
 javascript - frontend validation
